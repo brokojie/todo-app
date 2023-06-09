@@ -1,0 +1,11 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A simple, intuitive, and responsive To-Do List web application built with HTML, CSS, and JavaScript. This app allows users to add tasks to a list, providing a clear view of what needs to be done. Useres can also delte tasks once they are completed, promoting a sense of productivity and achievement. This project serves as an introduction to web development, the application of the CI/CD pipeline to the application, and the overall process of deploying an application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#task-form {
+    margin: 1em 0;
+    display: flex;
+    justify-content: center;
+}
+
+#task-input {
+    flex-grow: 1;
+    margin-right: 1em;
+}
+
+#task-list {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#task-list li {
+    border: 1px solid #000;
+    margin: 1em 0;
+    padding: 1em;
+    list-style-type: none;
+}
